@@ -15,7 +15,7 @@
  
 <br>
  
-### Se quiser me seguir no instagram só clicar no link abaixo!
+### Se quiser me seguir no instagram e no likedIn só clicar no link abaixo!
  
 <div> 
   <a href="https://instagram.com/hp.beta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
