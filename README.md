@@ -1,5 +1,14 @@
-## Bem-vindo(a) ao meu perfil  😁
+## Olá, me chamo João Lucas  😁
 
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor frontend. Estou sempre em busca de novos desafios para expandir meus conhecimentos em React e outras tecnologias do mundo web. Estou constantemente evoluindo e, além de programar, gosto de treinar Muay Thai e correr para manter o corpo e a mente ativos.
+
+Atualmente, estou:
+
+-Aprofundando meus conhecimentos em React. </br>
+-Criando e consumindo APIs para integrar sistemas de forma eficiente. </br>
+-Explorando Node.js e Express para criar soluções de backend.
+
+Neste repositório, você vai encontrar projetos pessoais e experimentos que tenho feito. Fique à vontade para explorar, dar sugestões ou até contribuir! 
  <div>
    <a href="https://github.com/hpbeta">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hpbeta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
